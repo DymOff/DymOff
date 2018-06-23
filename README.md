@@ -1,0 +1,2 @@
+# DymOff
+Magazine
